@@ -554,6 +554,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "kechupsandwichlolol"
+    },
+    {
+      "name": "Ketchup",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ketchup"
     }
   ],
   "variable_elements": [],
@@ -642,12 +651,10 @@
       "subtitles.ahe": "",
       "item.more_weapons_.crystalar_boots": "§6Crystal §bBoots",
       "item.more_weapons_.red_diamond_sword": "Red Diamond Sword",
-      "advancements.kechupsandwichlolol.descr": "YUMMY",
       "item.more_weapons_.music": "Music",
       "subtitles.death": "",
       "item.more_weapons_.bullet": "Bullet",
       "item.more_weapons_.reddiamondarmor_boots": "Red diamond Boots",
-      "advancements.kechupsandwichlolol.title": "Ketchupsandwich!?",
       "item.more_weapons_.crystal": "§6Crystal §bShard",
       "item.more_weapons_.reddiamondaxe": "Red diamond axe",
       "item.more_weapons_.reddiamondarmor_leggings": "Red diamond Leggings",
