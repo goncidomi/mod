@@ -1,0 +1,42 @@
+{
+  "group": "more_weapons_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_weapons_:tomatolol"
+    },
+    "1": {
+      "item": "more_weapons_:tomatolol"
+    },
+    "2": {
+      "item": "more_weapons_:tomatolol"
+    },
+    "3": {
+      "item": "more_weapons_:tomatolol"
+    },
+    "4": {
+      "item": "minecraft:glass_bottle"
+    },
+    "5": {
+      "item": "more_weapons_:tomatolol"
+    },
+    "6": {
+      "item": "more_weapons_:tomatolol"
+    },
+    "7": {
+      "item": "more_weapons_:tomatolol"
+    },
+    "8": {
+      "item": "more_weapons_:tomatolol"
+    }
+  },
+  "result": {
+    "item": "more_weapons_:ketchupcuc",
+    "count": 2
+  }
+}
