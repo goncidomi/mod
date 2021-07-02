@@ -553,7 +553,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "ketchup"
+      "registry_name": "ketchupcuc"
     },
     {
       "name": "Kechupsandwichlolol",
@@ -639,6 +639,7 @@
       "item.more_weapons_.ammo": "Ammo",
       "gamerule.fff.description": "test",
       "item.more_weapons_.crystalar_helmet": "§6Crystal §bHelmet",
+      "item.more_weapons_.ketchupcuc": "Ketchup",
       "item.more_weapons_.swordl": "§1Diamond-§8Netherite Sword",
       "item.more_weapons_.music.desc": "just a music good type",
       "subtitles.hehhe": "",
@@ -651,10 +652,12 @@
       "subtitles.ahe": "",
       "item.more_weapons_.crystalar_boots": "§6Crystal §bBoots",
       "item.more_weapons_.red_diamond_sword": "Red Diamond Sword",
+      "advancements.kechupsandwichlolol.descr": "YUMMY",
       "item.more_weapons_.music": "Music",
       "subtitles.death": "",
       "item.more_weapons_.bullet": "Bullet",
       "item.more_weapons_.reddiamondarmor_boots": "Red diamond Boots",
+      "advancements.kechupsandwichlolol.title": "Ketchupsandwich!?",
       "item.more_weapons_.crystal": "§6Crystal §bShard",
       "item.more_weapons_.reddiamondaxe": "Red diamond axe",
       "item.more_weapons_.reddiamondarmor_leggings": "Red diamond Leggings",
