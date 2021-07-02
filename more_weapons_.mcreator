@@ -563,6 +563,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "kechupsandwichlolol"
+    },
+    {
+      "name": "Kechupsandwichreciptttttt",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kechupsandwichreciptttttt"
     }
   ],
   "variable_elements": [],
