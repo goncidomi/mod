@@ -1,0 +1,676 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Music",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "music"
+    },
+    {
+      "name": "Zombie",
+      "type": "mob",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombie"
+    },
+    {
+      "name": "SwordlItemIsCraftedsmelted",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "swordl_item_is_craftedsmelted",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Swordl",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "swordl"
+    },
+    {
+      "name": "Ammo",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ammo"
+    },
+    {
+      "name": "S",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "s"
+    },
+    {
+      "name": "Bullet",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bullet"
+    },
+    {
+      "name": "Gun",
+      "type": "gun",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gun"
+    },
+    {
+      "name": "Ammotex",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ammotex"
+    },
+    {
+      "name": "Dimonddaasds",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimonddaasds"
+    },
+    {
+      "name": "Ddd",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ddd"
+    },
+    {
+      "name": "Guns",
+      "type": "achievement",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guns"
+    },
+    {
+      "name": "Aiot",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aiot"
+    },
+    {
+      "name": "Fff",
+      "type": "gamerule",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fff",
+      "metadata": {
+        "type": "number"
+      }
+    },
+    {
+      "name": "Swda",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "swda"
+    },
+    {
+      "name": "Crystal",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal"
+    },
+    {
+      "name": "Crystalore",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystalore"
+    },
+    {
+      "name": "NetheriteSitck",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_sitck"
+    },
+    {
+      "name": "Esdfedfiwfe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "esdfedfiwfe"
+    },
+    {
+      "name": "Recpt",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recpt"
+    },
+    {
+      "name": "Chestplate",
+      "type": "armor",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chestplate",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Rrrrrr",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rrrrrr"
+    },
+    {
+      "name": "Rrrrrrrrrrr",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rrrrrrrrrrr"
+    },
+    {
+      "name": "Dd",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dd"
+    },
+    {
+      "name": "Dddd",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dddd"
+    },
+    {
+      "name": "Sdsdd",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sdsdd"
+    },
+    {
+      "name": "Asdfsd",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "asdfsd"
+    },
+    {
+      "name": "Aiotget",
+      "type": "achievement",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aiotget"
+    },
+    {
+      "name": "Cryst",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cryst"
+    },
+    {
+      "name": "Crystrec",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystrec"
+    },
+    {
+      "name": "Crystalrec",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystalrec"
+    },
+    {
+      "name": "Crystalar",
+      "type": "armor",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystalar",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "MoreWeapons",
+      "type": "tab",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_weapons"
+    },
+    {
+      "name": "Reddiamond",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiamondore"
+    },
+    {
+      "name": "Reddiamon",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiamon"
+    },
+    {
+      "name": "Reddiamondarmor",
+      "type": "armor",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiamondarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Diarecpt",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarecpt"
+    },
+    {
+      "name": "Reddiaarmorrecptbody",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiaarmorrecptbody"
+    },
+    {
+      "name": "Reddiaarmorrecptleggings",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiaarmorrecptleggings"
+    },
+    {
+      "name": "Reddiarecptarmorboot",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiarecptarmorboot"
+    },
+    {
+      "name": "RedDiamondSword",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_diamond_sword"
+    },
+    {
+      "name": "Reddiamondpickaxe",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiamondpickaxe"
+    },
+    {
+      "name": "Reddiamondaxe",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiamondaxe"
+    },
+    {
+      "name": "Reddiamondhoe",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiamondhoe"
+    },
+    {
+      "name": "Reddiamondshovel",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiamondshovel"
+    },
+    {
+      "name": "Reddia",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddia"
+    },
+    {
+      "name": "Reddias",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddias"
+    },
+    {
+      "name": "Rediamondh",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rediamondh"
+    },
+    {
+      "name": "Reddiamondsh",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiamondsh"
+    },
+    {
+      "name": "Reddiamonda",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiamonda"
+    },
+    {
+      "name": "Reddiamonda2",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiamonda_2"
+    },
+    {
+      "name": "Recptcrystal",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recptcrystal"
+    },
+    {
+      "name": "Recptreddia",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recptreddia"
+    },
+    {
+      "name": "Tomatolol",
+      "type": "food",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomatolol"
+    },
+    {
+      "name": "Ketchupsandwich",
+      "type": "food",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ketchupsandwich"
+    },
+    {
+      "name": "Tomato",
+      "type": "plant",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomato"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "music_disc",
+      "files": [
+        "2021-06-20_09-45-28_online-audio-converter.com"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "hehhe",
+      "files": [
+        "wav_online-audio-converter.com"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "death",
+      "files": [
+        "waaaav_online-audio-converter.com"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "gun_go_brrrrrrrrr",
+      "files": [
+        "gunshotsnglshotin_pe1097906_online-audio-converter.com"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "ahe",
+      "files": [
+        "ee_online-audio-converter.com"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "drfg",
+      "files": [
+        "er_online-audio-converter.com"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.more_weapons_.zombie_spawn_egg": "pumpkin head Spawn Egg",
+      "block.more_weapons_.tomato": "Tomato",
+      "subtitles.drfg": "",
+      "item.more_weapons_.gun": "Gun",
+      "item.more_weapons_.crystalar_chestplate": "§6Crystal §bBody",
+      "item.more_weapons_.reddiamondarmor_helmet": "Red diamond Helmet",
+      "item.more_weapons_.chestplate_helmet": "Netherite-Diamond Helmet",
+      "entity.more_weapons_.zombie": "pumpkin head",
+      "item.more_weapons_.reddiamondshovel": "Red diamond shovel",
+      "subtitles.music_disc": "",
+      "item.more_weapons_.netherite_sitck": "Netherite stick",
+      "item.more_weapons_.chestplate_chestplate": "Netherite-Diamond Chestplate",
+      "advancements.guns.descr": "you got a gun",
+      "item.more_weapons_.ketchupsandwich": "Ketchupsandwich",
+      "item.more_weapons_.reddiamon": "Red Diamond",
+      "item.more_weapons_.reddiamondhoe": "Red diamond hoe",
+      "item.more_weapons_.reddiamondarmor_chestplate": "Red diamond Chestplate",
+      "advancements.aiotget.title": "Aiot",
+      "item.more_weapons_.ammo": "Ammo",
+      "gamerule.fff.description": "test",
+      "item.more_weapons_.crystalar_helmet": "§6Crystal §bHelmet",
+      "item.more_weapons_.swordl": "§1Diamond-§8Netherite Sword",
+      "item.more_weapons_.music.desc": "just a music good type",
+      "subtitles.hehhe": "",
+      "item.more_weapons_.crystalar_leggings": "§6Crystal §bLeggings",
+      "item.more_weapons_.tomatolol": "Tomatolol",
+      "advancements.guns.title": "Guns",
+      "item.more_weapons_.chestplate_boots": "Netherite-Diamond Boots",
+      "item.more_weapons_.dimonddaasds": "§3Diamond-§8Netherite pickaxe",
+      "item.more_weapons_.reddiamondpickaxe": "Red diamond pickaxe",
+      "subtitles.ahe": "",
+      "item.more_weapons_.crystalar_boots": "§6Crystal §bBoots",
+      "item.more_weapons_.red_diamond_sword": "Red Diamond Sword",
+      "item.more_weapons_.music": "Music",
+      "subtitles.death": "",
+      "item.more_weapons_.bullet": "Bullet",
+      "item.more_weapons_.reddiamondarmor_boots": "Red diamond Boots",
+      "item.more_weapons_.crystal": "§6Crystal §bShard",
+      "item.more_weapons_.reddiamondaxe": "Red diamond axe",
+      "item.more_weapons_.reddiamondarmor_leggings": "Red diamond Leggings",
+      "block.more_weapons_.crystalore": "Crystal ore",
+      "subtitles.gun_go_brrrrrrrrr": "",
+      "gamerule.fff": "test",
+      "itemGroup.tabmore_weapons": "More Weapons",
+      "block.more_weapons_.reddiamondore": "Reddiamond",
+      "item.more_weapons_.chestplate_leggings": "Netherite-Diamond Leggings",
+      "block.more_weapons_.cryst": "Cryst",
+      "advancements.aiotget.descr": "you got a Crystal Aiot",
+      "item.more_weapons_.aiot": "§6Cristal §bAiot"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "more_weapons_",
+    "modName": "More weapons ",
+    "version": "1.0.0",
+    "author": "Gamer i5, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.moreweapons",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

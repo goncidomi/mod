@@ -1,0 +1,42 @@
+{
+  "group": "more_weapons_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_weapons_:crystal"
+    },
+    "1": {
+      "item": "more_weapons_:crystal"
+    },
+    "2": {
+      "item": "more_weapons_:crystal"
+    },
+    "3": {
+      "item": "more_weapons_:crystal"
+    },
+    "4": {
+      "item": "more_weapons_:crystal"
+    },
+    "5": {
+      "item": "more_weapons_:crystal"
+    },
+    "6": {
+      "item": "more_weapons_:crystal"
+    },
+    "7": {
+      "item": "more_weapons_:crystal"
+    },
+    "8": {
+      "item": "more_weapons_:crystal"
+    }
+  },
+  "result": {
+    "item": "more_weapons_:cryst",
+    "count": 1
+  }
+}

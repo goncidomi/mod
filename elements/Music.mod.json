@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "j",
+    "name": "Music",
+    "description": "just a music good type",
+    "creativeTab": {
+      "value": "CUSTOM:MoreWeapons"
+    },
+    "music": {
+      "value": "CUSTOM:music_disc"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

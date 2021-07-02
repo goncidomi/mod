@@ -1,0 +1,24 @@
+{
+  "group": "more_weapons_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_block"
+    },
+    "1": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "2": {
+      "item": "more_weapons_:netherite_sitck"
+    }
+  },
+  "result": {
+    "item": "more_weapons_:swordl",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "more_weapons_",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "more_weapons_:ammo",
+    "count": 10
+  }
+}

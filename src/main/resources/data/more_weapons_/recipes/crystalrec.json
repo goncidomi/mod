@@ -1,0 +1,13 @@
+{
+  "group": "more_weapons_",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_weapons_:cryst"
+    }
+  ],
+  "result": {
+    "item": "more_weapons_:crystal",
+    "count": 9
+  }
+}

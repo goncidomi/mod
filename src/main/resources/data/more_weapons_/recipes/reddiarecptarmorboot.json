@@ -1,0 +1,26 @@
+{
+  "group": "more_weapons_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "2": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "3": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "5": {
+      "item": "more_weapons_:reddiamon"
+    }
+  },
+  "result": {
+    "item": "more_weapons_:reddiamondarmor_boots",
+    "count": 1
+  }
+}

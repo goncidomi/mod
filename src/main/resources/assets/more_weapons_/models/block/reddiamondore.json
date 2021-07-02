@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_weapons_:blocks/red_diamond_ore",
+    "up": "more_weapons_:blocks/red_diamond_ore",
+    "north": "more_weapons_:blocks/red_diamond_ore",
+    "east": "more_weapons_:blocks/red_diamond_ore",
+    "south": "more_weapons_:blocks/red_diamond_ore",
+    "west": "more_weapons_:blocks/red_diamond_ore",
+    "particle": "more_weapons_:blocks/red_diamond_ore"
+  }
+}

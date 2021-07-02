@@ -1,0 +1,27 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "diamond_axe",
+    "customModelName": "Normal",
+    "name": "Red diamond axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MoreWeapons"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 10.0,
+    "attackSpeed": 1.5,
+    "enchantability": 4,
+    "damageVsEntity": 4.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

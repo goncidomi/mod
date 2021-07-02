@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "more_weapons_:blocks/tomato_plant",
+    "particle": "more_weapons_:blocks/tomato_plant"
+  }
+}

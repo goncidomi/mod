@@ -1,0 +1,27 @@
+{
+  "group": "more_weapons_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "1": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "more_weapons_:reddiamondhoe",
+    "count": 1
+  }
+}

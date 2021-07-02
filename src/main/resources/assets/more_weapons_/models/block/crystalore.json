@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_weapons_:blocks/wdw",
+    "up": "more_weapons_:blocks/wdw",
+    "north": "more_weapons_:blocks/wdw",
+    "east": "more_weapons_:blocks/wdw",
+    "south": "more_weapons_:blocks/wdw",
+    "west": "more_weapons_:blocks/wdw",
+    "particle": "more_weapons_:blocks/wdw"
+  }
+}

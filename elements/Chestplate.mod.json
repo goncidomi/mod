@@ -1,0 +1,61 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "_khk_head",
+    "enableBody": true,
+    "textureBody": "_khk_body",
+    "enableLeggings": true,
+    "textureLeggings": "_khk_leggings",
+    "enableBoots": true,
+    "textureBoots": "_khk_boots",
+    "creativeTab": {
+      "value": "CUSTOM:MoreWeapons"
+    },
+    "armorTextureFile": "_khk",
+    "helmetName": "Netherite-Diamond Helmet",
+    "bodyName": "Netherite-Diamond Chestplate",
+    "leggingsName": "Netherite-Diamond Leggings",
+    "bootsName": "Netherite-Diamond Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 12,
+    "damageValueBody": 18,
+    "damageValueLeggings": 16,
+    "damageValueBoots": 10,
+    "enchantability": 9,
+    "toughness": 3.5,
+    "knockbackResistance": 0.1,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Items.NETHERITE_INGOT"
+      },
+      {
+        "value": "Items.DIAMOND"
+      }
+    ]
+  }
+}

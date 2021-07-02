@@ -1,0 +1,36 @@
+{
+  "group": "more_weapons_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "1": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "2": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "3": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "5": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "6": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "8": {
+      "item": "more_weapons_:reddiamon"
+    }
+  },
+  "result": {
+    "item": "more_weapons_:reddiamondarmor_leggings",
+    "count": 1
+  }
+}
