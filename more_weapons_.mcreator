@@ -545,6 +545,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "tomato"
+    },
+    {
+      "name": "Kechupsandwichlolol",
+      "type": "achievement",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kechupsandwichlolol"
     }
   ],
   "variable_elements": [],
@@ -605,8 +614,8 @@
       "subtitles.drfg": "",
       "item.more_weapons_.gun": "Gun",
       "item.more_weapons_.crystalar_chestplate": "§6Crystal §bBody",
-      "item.more_weapons_.reddiamondarmor_helmet": "Red diamond Helmet",
       "item.more_weapons_.chestplate_helmet": "Netherite-Diamond Helmet",
+      "item.more_weapons_.reddiamondarmor_helmet": "Red diamond Helmet",
       "entity.more_weapons_.zombie": "pumpkin head",
       "item.more_weapons_.reddiamondshovel": "Red diamond shovel",
       "subtitles.music_disc": "",
@@ -633,10 +642,12 @@
       "subtitles.ahe": "",
       "item.more_weapons_.crystalar_boots": "§6Crystal §bBoots",
       "item.more_weapons_.red_diamond_sword": "Red Diamond Sword",
+      "advancements.kechupsandwichlolol.descr": "YUMMY",
       "item.more_weapons_.music": "Music",
       "subtitles.death": "",
       "item.more_weapons_.bullet": "Bullet",
       "item.more_weapons_.reddiamondarmor_boots": "Red diamond Boots",
+      "advancements.kechupsandwichlolol.title": "Ketchupsandwich!?",
       "item.more_weapons_.crystal": "§6Crystal §bShard",
       "item.more_weapons_.reddiamondaxe": "Red diamond axe",
       "item.more_weapons_.reddiamondarmor_leggings": "Red diamond Leggings",
