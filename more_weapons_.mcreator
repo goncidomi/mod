@@ -554,6 +554,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ketchup"
+    },
+    {
+      "name": "Kechupsandwichlolol",
+      "type": "achievement",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kechupsandwichlolol"
     }
   ],
   "variable_elements": [],
@@ -622,7 +631,6 @@
       "item.more_weapons_.netherite_sitck": "Netherite stick",
       "item.more_weapons_.chestplate_chestplate": "Netherite-Diamond Chestplate",
       "advancements.guns.descr": "you got a gun",
-      "item.more_weapons_.ketchup": "Ketchup",
       "item.more_weapons_.ketchupsandwich": "Ketchupsandwich",
       "item.more_weapons_.reddiamon": "Red Diamond",
       "item.more_weapons_.reddiamondhoe": "Red diamond hoe",
