@@ -617,6 +617,69 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "blockrecpt"
+    },
+    {
+      "name": "Heatore",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatore"
+    },
+    {
+      "name": "Heatdrop",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatdrop"
+    },
+    {
+      "name": "Heatcrystal",
+      "type": "item",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatcrystal"
+    },
+    {
+      "name": "Heatpickaxe",
+      "type": "tool",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatpickaxe"
+    },
+    {
+      "name": "Recpttool",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recpttool"
+    },
+    {
+      "name": "Recptheatcrystal",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recptheatcrystal"
+    },
+    {
+      "name": "Heatget",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatget"
     }
   ],
   "variable_elements": [],
@@ -693,6 +756,7 @@
       "item.more_weapons_.ammo": "Ammo",
       "gamerule.fff.description": "test",
       "item.more_weapons_.crystalar_helmet": "§6Crystal §bHelmet",
+      "item.more_weapons_.heatcrystal": "Heatcrystal",
       "item.more_weapons_.ketchupcuc": "Ketchup",
       "item.more_weapons_.swordl": "§1Diamond-§8Netherite Sword",
       "item.more_weapons_.music.desc": "just a music good type",
@@ -717,12 +781,15 @@
       "item.more_weapons_.reddiamondarmor_leggings": "Red diamond Leggings",
       "block.more_weapons_.crystalore": "Crystal ore",
       "subtitles.gun_go_brrrrrrrrr": "",
+      "block.more_weapons_.heatore": "Heatore",
+      "item.more_weapons_.heatpickaxe": "Heatpickaxe",
       "gamerule.fff": "test",
       "itemGroup.tabmore_weapons": "More Weapons",
       "block.more_weapons_.reddiamondore": "Reddiamond",
       "item.more_weapons_.chestplate_leggings": "Netherite-Diamond Leggings",
       "item.more_weapons_.reddiamondaiot": "Red diamond aiot",
       "block.more_weapons_.reddiamondblock": "Reddiamondblock",
+      "item.more_weapons_.heatdrop": "Heat ingot",
       "block.more_weapons_.cryst": "Cryst",
       "advancements.aiotget.descr": "you got a Crystal Aiot",
       "item.more_weapons_.aiot": "§6Cristal §bAiot"
