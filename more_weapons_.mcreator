@@ -572,6 +572,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ketchupcraft"
+    },
+    {
+      "name": "YEET",
+      "type": "painting",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yeet"
     }
   ],
   "variable_elements": [],
