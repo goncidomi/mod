@@ -545,6 +545,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "tomato"
+    },
+    {
+      "name": "Ketchup",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ketchup"
     }
   ],
   "variable_elements": [],
@@ -614,6 +623,7 @@
       "item.more_weapons_.chestplate_chestplate": "Netherite-Diamond Chestplate",
       "advancements.guns.descr": "you got a gun",
       "item.more_weapons_.ketchupsandwich": "Ketchupsandwich",
+      "item.more_weapons_.ketchup": "Ketchup",
       "item.more_weapons_.reddiamon": "Red Diamond",
       "item.more_weapons_.reddiamondhoe": "Red diamond hoe",
       "item.more_weapons_.reddiamondarmor_chestplate": "Red diamond Chestplate",
