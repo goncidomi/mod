@@ -581,6 +581,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "yeet"
+    },
+    {
+      "name": "Reddiamondaiot",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiamondaiot"
+    },
+    {
+      "name": "Aiotcraft",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aiotcraft"
+    },
+    {
+      "name": "Reddiamondblock",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiamondblock"
+    },
+    {
+      "name": "Blockrecpt",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockrecpt"
     }
   ],
   "variable_elements": [],
@@ -685,6 +721,8 @@
       "itemGroup.tabmore_weapons": "More Weapons",
       "block.more_weapons_.reddiamondore": "Reddiamond",
       "item.more_weapons_.chestplate_leggings": "Netherite-Diamond Leggings",
+      "item.more_weapons_.reddiamondaiot": "Red diamond aiot",
+      "block.more_weapons_.reddiamondblock": "Reddiamondblock",
       "block.more_weapons_.cryst": "Cryst",
       "advancements.aiotget.descr": "you got a Crystal Aiot",
       "item.more_weapons_.aiot": "§6Cristal §bAiot"
