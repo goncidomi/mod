@@ -5,7 +5,6 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.item.PickaxeItem;
-import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
@@ -24,29 +23,29 @@ public class HeatpickaxeItem extends MoreWeaponsModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new PickaxeItem(new IItemTier() {
 			public int getMaxUses() {
-				return 2000;
+				return 100;
 			}
 
 			public float getEfficiency() {
-				return 7f;
+				return 4f;
 			}
 
 			public float getAttackDamage() {
-				return 3f;
+				return 2f;
 			}
 
 			public int getHarvestLevel() {
-				return 4;
+				return 1;
 			}
 
 			public int getEnchantability() {
-				return 4;
+				return 2;
 			}
 
 			public Ingredient getRepairMaterial() {
-				return Ingredient.fromStacks(new ItemStack(ReddiamonItem.block, (int) (1)));
+				return Ingredient.EMPTY;
 			}
-		}, 1, -2.8f, new Item.Properties().group(ItemGroup.TOOLS)) {
+		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
 		}.setRegistryName("heatpickaxe"));
 	}
 }
