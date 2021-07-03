@@ -22,6 +22,7 @@
   "item.more_weapons_.crystalar_helmet": "§6Crystal §bHelmet",
   "item.more_weapons_.heatcrystal": "Heat crystal",
   "item.more_weapons_.ketchupcuc": "Ketchup",
+  "block.more_weapons_.lololoolll": "Lololoolll",
   "item.more_weapons_.swordl": "§1Diamond-§8Netherite Sword",
   "item.more_weapons_.music.desc": "just a music good type",
   "subtitles.hehhe": "",
@@ -35,10 +36,12 @@
   "item.more_weapons_.crystalar_boots": "§6Crystal §bBoots",
   "item.more_weapons_.red_diamond_sword": "Red Diamond Sword",
   "advancements.kechupsandwichlolol.descr": "YUMMY",
+  "advancements.red.title": "Red?!",
   "item.more_weapons_.music": "Music",
   "subtitles.death": "",
   "item.more_weapons_.bullet": "Bullet",
   "item.more_weapons_.reddiamondarmor_boots": "Red diamond Boots",
+  "advancements.red.descr": "It\u0027s red",
   "advancements.kechupsandwichlolol.title": "Ketchupsandwich!?",
   "item.more_weapons_.crystal": "§6Crystal §bShard",
   "item.more_weapons_.reddiamondaxe": "Red diamond axe",
@@ -55,7 +58,6 @@
   "block.more_weapons_.reddiamondblock": "Reddiamondblock",
   "item.more_weapons_.heatdrop": "Heat ingot",
   "block.more_weapons_.cryst": "Cryst",
-  "item.more_weapons_.heataxe": "Heataxe",
   "advancements.aiotget.descr": "you got a Crystal Aiot",
   "item.more_weapons_.aiot": "§6Cristal §bAiot"
 }

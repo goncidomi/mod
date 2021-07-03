@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_weapons_:blocks/nehehehehe",
+    "up": "more_weapons_:blocks/nehehehehe",
+    "north": "more_weapons_:blocks/nehehehehe",
+    "east": "more_weapons_:blocks/nehehehehe",
+    "south": "more_weapons_:blocks/nehehehehe",
+    "west": "more_weapons_:blocks/nehehehehe",
+    "particle": "more_weapons_:blocks/nehehehehe"
+  }
+}

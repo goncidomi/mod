@@ -1,0 +1,10 @@
+{
+  "_fv": 18,
+  "_type": "fuel",
+  "definition": {
+    "power": 1606,
+    "block": {
+      "value": "CUSTOM:Heatdrop"
+    }
+  }
+}

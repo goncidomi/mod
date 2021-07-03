@@ -708,13 +708,49 @@
       "registry_name": "heatsword"
     },
     {
-      "name": "Heataxe",
-      "type": "tool",
-      "sortid": 66,
+      "name": "Craftin2lol",
+      "type": "gui",
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "heataxe"
+      "registry_name": "craftin_2lol"
+    },
+    {
+      "name": "Lololoolll",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lololoolll"
+    },
+    {
+      "name": "Recptheat",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recptheat"
+    },
+    {
+      "name": "Heatdropfuel",
+      "type": "fuel",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatdropfuel"
+    },
+    {
+      "name": "Heatrecptpickaxe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatrecptpickaxe"
     }
   ],
   "variable_elements": [],
@@ -793,6 +829,7 @@
       "item.more_weapons_.crystalar_helmet": "§6Crystal §bHelmet",
       "item.more_weapons_.heatcrystal": "Heat crystal",
       "item.more_weapons_.ketchupcuc": "Ketchup",
+      "block.more_weapons_.lololoolll": "Lololoolll",
       "item.more_weapons_.swordl": "§1Diamond-§8Netherite Sword",
       "item.more_weapons_.music.desc": "just a music good type",
       "subtitles.hehhe": "",
@@ -828,7 +865,6 @@
       "block.more_weapons_.reddiamondblock": "Reddiamondblock",
       "item.more_weapons_.heatdrop": "Heat ingot",
       "block.more_weapons_.cryst": "Cryst",
-      "item.more_weapons_.heataxe": "Heataxe",
       "advancements.aiotget.descr": "you got a Crystal Aiot",
       "item.more_weapons_.aiot": "§6Cristal §bAiot"
     }
