@@ -689,6 +689,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "recpttool"
+    },
+    {
+      "name": "Kechuplol",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kechuplol"
     }
   ],
   "variable_elements": [],
