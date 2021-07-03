@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "crystalheat",
     "customModelName": "Normal",
-    "name": "Heatcrystal",
+    "name": "Heat crystal",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:MoreWeapons"

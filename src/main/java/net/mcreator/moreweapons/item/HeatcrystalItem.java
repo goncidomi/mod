@@ -1,24 +1,29 @@
 
 package net.mcreator.moreweapons.item;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.item.Rarity;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Item;
+import net.minecraft.block.BlockState;
+
+import net.mcreator.moreweapons.itemgroup.MoreWeaponsItemGroup;
+import net.mcreator.moreweapons.MoreWeaponsModElements;
+
 @MoreWeaponsModElements.ModElement.Tag
 public class HeatcrystalItem extends MoreWeaponsModElements.ModElement {
-
 	@ObjectHolder("more_weapons_:heatcrystal")
 	public static final Item block = null;
-
 	public HeatcrystalItem(MoreWeaponsModElements instance) {
 		super(instance, 62);
-
 	}
 
 	@Override
 	public void initElements() {
 		elements.items.add(() -> new ItemCustom());
 	}
-
 	public static class ItemCustom extends Item {
-
 		public ItemCustom() {
 			super(new Item.Properties().group(MoreWeaponsItemGroup.tab).maxStackSize(64).isImmuneToFire().rarity(Rarity.COMMON));
 			setRegistryName("heatcrystal");
@@ -38,7 +43,5 @@ public class HeatcrystalItem extends MoreWeaponsModElements.ModElement {
 		public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
 			return 1F;
 		}
-
 	}
-
 }

@@ -6,7 +6,7 @@
     "texture": "lavaing",
     "customModelName": "Normal",
     "name": "Heat ingot",
-    "rarity": "COMMON",
+    "rarity": "RARE",
     "creativeTab": {
       "value": "CUSTOM:MoreWeapons"
     },
