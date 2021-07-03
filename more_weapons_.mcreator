@@ -581,6 +581,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "yeet"
+    },
+    {
+      "name": "Red",
+      "type": "achievement",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red"
     }
   ],
   "variable_elements": [],
@@ -671,10 +680,12 @@
       "item.more_weapons_.crystalar_boots": "§6Crystal §bBoots",
       "item.more_weapons_.red_diamond_sword": "Red Diamond Sword",
       "advancements.kechupsandwichlolol.descr": "YUMMY",
+      "advancements.red.title": "Red?!",
       "item.more_weapons_.music": "Music",
       "subtitles.death": "",
       "item.more_weapons_.bullet": "Bullet",
       "item.more_weapons_.reddiamondarmor_boots": "Red diamond Boots",
+      "advancements.red.descr": "It\u0027s red",
       "advancements.kechupsandwichlolol.title": "Ketchupsandwich!?",
       "item.more_weapons_.crystal": "§6Crystal §bShard",
       "item.more_weapons_.reddiamondaxe": "Red diamond axe",
