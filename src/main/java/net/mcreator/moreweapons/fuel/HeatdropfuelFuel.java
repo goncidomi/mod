@@ -20,6 +20,6 @@ public class HeatdropfuelFuel extends MoreWeaponsModElements.ModElement {
 	@SubscribeEvent
 	public void furnaceFuelBurnTimeEvent(FurnaceFuelBurnTimeEvent event) {
 		if (event.getItemStack().getItem() == new ItemStack(HeatdropItem.block, (int) (1)).getItem())
-			event.setBurnTime(1606);
+			event.setBurnTime(3000);
 	}
 }

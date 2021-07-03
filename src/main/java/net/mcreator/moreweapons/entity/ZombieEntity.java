@@ -115,8 +115,6 @@ public class ZombieEntity extends MoreWeaponsModElements.ModElement {
 			super(type, world);
 			experienceValue = 60;
 			setNoAI(false);
-			this.setItemStackToSlot(EquipmentSlotType.MAINHAND, new ItemStack(Items.STICK, (int) (1)));
-			this.setItemStackToSlot(EquipmentSlotType.OFFHAND, new ItemStack(Blocks.SUGAR_CANE, (int) (1)));
 			this.setItemStackToSlot(EquipmentSlotType.HEAD, new ItemStack(Items.DIAMOND_HELMET, (int) (1)));
 			this.setItemStackToSlot(EquipmentSlotType.CHEST, new ItemStack(Items.IRON_CHESTPLATE, (int) (1)));
 			this.setItemStackToSlot(EquipmentSlotType.LEGS, new ItemStack(Items.IRON_LEGGINGS, (int) (1)));
@@ -134,7 +132,7 @@ public class ZombieEntity extends MoreWeaponsModElements.ModElement {
 			this.goalSelector.addGoal(1, new MeleeAttackGoal(this, 1.5, false));
 			this.goalSelector.addGoal(2, new RandomWalkingGoal(this, 1.2));
 			this.goalSelector.addGoal(3, new LookRandomlyGoal(this));
-			this.goalSelector.addGoal(4, new BreakBlockGoal(Blocks.POLISHED_DIORITE.getDefaultState().getBlock(), this, 1, (int) 3));
+			this.goalSelector.addGoal(4, new BreakBlockGoal(Blocks.DIORITE.getDefaultState().getBlock(), this, 1, (int) 3));
 			this.goalSelector.addGoal(5, new FollowMobGoal(this, (float) 1, 10, 5));
 			this.targetSelector.addGoal(6, new HurtByTargetGoal(this).setCallsForHelp(this.getClass()));
 			this.goalSelector.addGoal(7, new LookRandomlyGoal(this));
@@ -147,7 +145,7 @@ public class ZombieEntity extends MoreWeaponsModElements.ModElement {
 
 		@Override
 		public CreatureAttribute getCreatureAttribute() {
-			return CreatureAttribute.UNDEAD;
+			return CreatureAttribute.UNDEFINED;
 		}
 
 		protected void dropSpecialItems(DamageSource source, int looting, boolean recentlyHitIn) {

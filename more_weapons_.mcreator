@@ -664,15 +664,6 @@
       "registry_name": "heatdrop"
     },
     {
-      "name": "Recpttool",
-      "type": "recipe",
-      "sortid": 63,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "recpttool"
-    },
-    {
       "name": "Kechuplol",
       "type": "recipe",
       "sortid": 64,
@@ -751,6 +742,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "heatrecptpickaxe"
+    },
+    {
+      "name": "Recptofheat",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recptofheat"
     }
   ],
   "variable_elements": [],

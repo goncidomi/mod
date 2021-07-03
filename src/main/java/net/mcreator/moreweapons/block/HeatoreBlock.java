@@ -131,8 +131,8 @@ public class HeatoreBlock extends MoreWeaponsModElements.ModElement {
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 6)).range(14)
-					.square().func_242731_b(10);
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 8)).range(14)
+					.square().func_242731_b(16);
 			event.getRegistry().register(feature.setRegistryName("heatore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("more_weapons_:heatore"), configuredFeature);
 		}
