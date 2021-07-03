@@ -14,12 +14,16 @@
     "harvestLevel": 4,
     "efficiency": 7.0,
     "attackSpeed": 1.2,
-    "enchantability": 3,
+    "enchantability": 4,
     "damageVsEntity": 5.0,
     "usageCount": 2000,
     "blocksAffected": [],
     "hasGlow": false,
-    "repairItems": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:Reddiamon"
+      }
+    ],
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
