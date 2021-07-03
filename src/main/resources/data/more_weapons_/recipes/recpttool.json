@@ -1,0 +1,16 @@
+{
+  "group": "more_weapons_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "more_weapons_:heatdrop"
+    }
+  },
+  "result": {
+    "item": "more_weapons_:heatdrop",
+    "count": 1
+  }
+}

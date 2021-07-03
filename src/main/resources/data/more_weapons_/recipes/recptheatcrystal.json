@@ -1,0 +1,30 @@
+{
+  "group": "more_weapons_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "more_weapons_:crystal"
+    },
+    "3": {
+      "item": "more_weapons_:crystal"
+    },
+    "4": {
+      "item": "more_weapons_:deleted_mod_element"
+    },
+    "5": {
+      "item": "more_weapons_:crystal"
+    },
+    "7": {
+      "item": "more_weapons_:crystal"
+    }
+  },
+  "result": {
+    "item": "more_weapons_:heatcrystal",
+    "count": 2
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "more_weapons_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "1": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "2": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "3": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "4": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "5": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "6": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "7": {
+      "item": "more_weapons_:reddiamon"
+    },
+    "8": {
+      "item": "more_weapons_:reddiamon"
+    }
+  },
+  "result": {
+    "item": "more_weapons_:deleted_mod_element",
+    "count": 1
+  }
+}

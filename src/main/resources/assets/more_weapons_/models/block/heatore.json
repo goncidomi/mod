@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_weapons_:blocks/lavaore",
+    "up": "more_weapons_:blocks/lavaore",
+    "north": "more_weapons_:blocks/lavaore",
+    "east": "more_weapons_:blocks/lavaore",
+    "south": "more_weapons_:blocks/lavaore",
+    "west": "more_weapons_:blocks/lavaore",
+    "particle": "more_weapons_:blocks/lavaore"
+  }
+}

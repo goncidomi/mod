@@ -590,6 +590,105 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "red"
+    },
+    {
+      "name": "Heatget",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatget"
+    },
+    {
+      "name": "Blockrecpt",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockrecpt"
+    },
+    {
+      "name": "Heatpickaxe",
+      "type": "tool",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatpickaxe"
+    },
+    {
+      "name": "Heatcrystal",
+      "type": "item",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatcrystal"
+    },
+    {
+      "name": "Heatore",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatore"
+    },
+    {
+      "name": "Reddiamondblock",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiamondblock"
+    },
+    {
+      "name": "Aiotcraft",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aiotcraft"
+    },
+    {
+      "name": "Reddiamondaiot",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddiamondaiot"
+    },
+    {
+      "name": "Recptheatcrystal",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recptheatcrystal"
+    },
+    {
+      "name": "Heatdrop",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatdrop"
+    },
+    {
+      "name": "Recpttool",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recpttool"
     }
   ],
   "variable_elements": [],
@@ -650,8 +749,8 @@
       "subtitles.drfg": "",
       "item.more_weapons_.gun": "Gun",
       "item.more_weapons_.crystalar_chestplate": "§6Crystal §bBody",
-      "item.more_weapons_.reddiamondarmor_helmet": "Red diamond Helmet",
       "item.more_weapons_.chestplate_helmet": "Netherite-Diamond Helmet",
+      "item.more_weapons_.reddiamondarmor_helmet": "Red diamond Helmet",
       "entity.more_weapons_.zombie": "pumpkin head",
       "item.more_weapons_.reddiamondshovel": "Red diamond shovel",
       "subtitles.music_disc": "",
@@ -680,12 +779,10 @@
       "item.more_weapons_.crystalar_boots": "§6Crystal §bBoots",
       "item.more_weapons_.red_diamond_sword": "Red Diamond Sword",
       "advancements.kechupsandwichlolol.descr": "YUMMY",
-      "advancements.red.title": "Red?!",
       "item.more_weapons_.music": "Music",
       "subtitles.death": "",
       "item.more_weapons_.bullet": "Bullet",
       "item.more_weapons_.reddiamondarmor_boots": "Red diamond Boots",
-      "advancements.red.descr": "It\u0027s red",
       "advancements.kechupsandwichlolol.title": "Ketchupsandwich!?",
       "item.more_weapons_.crystal": "§6Crystal §bShard",
       "item.more_weapons_.reddiamondaxe": "Red diamond axe",
