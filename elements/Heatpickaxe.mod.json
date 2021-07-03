@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "ammo",
+    "texture": "lolllll",
     "customModelName": "Normal",
     "name": "Heatpickaxe",
     "specialInfo": [],
@@ -11,15 +11,19 @@
       "value": "TOOLS"
     },
     "toolType": "Pickaxe",
-    "harvestLevel": 1,
-    "efficiency": 4.0,
-    "attackSpeed": 1.0,
-    "enchantability": 2,
-    "damageVsEntity": 4.0,
-    "usageCount": 100,
+    "harvestLevel": 4,
+    "efficiency": 7.0,
+    "attackSpeed": 1.2,
+    "enchantability": 4,
+    "damageVsEntity": 5.0,
+    "usageCount": 2000,
     "blocksAffected": [],
     "hasGlow": false,
-    "repairItems": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:Reddiamon"
+      }
+    ],
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false

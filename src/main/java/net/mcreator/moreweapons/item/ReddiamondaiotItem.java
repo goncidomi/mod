@@ -1,12 +1,29 @@
 
 package net.mcreator.moreweapons.item;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.world.World;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemGroup;
+import net.minecraft.item.Item;
+import net.minecraft.inventory.EquipmentSlotType;
+import net.minecraft.entity.ai.attributes.Attributes;
+import net.minecraft.entity.ai.attributes.AttributeModifier;
+import net.minecraft.entity.ai.attributes.Attribute;
+import net.minecraft.entity.LivingEntity;
+import net.minecraft.block.BlockState;
+
+import net.mcreator.moreweapons.MoreWeaponsModElements;
+
+import com.google.common.collect.Multimap;
+import com.google.common.collect.ImmutableMultimap;
+
 @MoreWeaponsModElements.ModElement.Tag
 public class ReddiamondaiotItem extends MoreWeaponsModElements.ModElement {
-
 	@ObjectHolder("more_weapons_:reddiamondaiot")
 	public static final Item block = null;
-
 	public ReddiamondaiotItem(MoreWeaponsModElements instance) {
 		super(instance, 56);
 	}
@@ -14,12 +31,9 @@ public class ReddiamondaiotItem extends MoreWeaponsModElements.ModElement {
 	@Override
 	public void initElements() {
 		elements.items.add(() -> new ItemToolCustom() {
-
 		}.setRegistryName("reddiamondaiot"));
 	}
-
 	private static class ItemToolCustom extends Item {
-
 		protected ItemToolCustom() {
 			super(new Item.Properties().group(ItemGroup.TOOLS).maxDamage(2000));
 		}
@@ -40,7 +54,7 @@ public class ReddiamondaiotItem extends MoreWeaponsModElements.ModElement {
 
 		@Override
 		public boolean canHarvestBlock(BlockState state) {
-			return 1 >= state.getHarvestLevel();
+			return 5 >= state.getHarvestLevel();
 		}
 
 		@Override
@@ -64,7 +78,5 @@ public class ReddiamondaiotItem extends MoreWeaponsModElements.ModElement {
 		public int getItemEnchantability() {
 			return 5;
 		}
-
 	}
-
 }
