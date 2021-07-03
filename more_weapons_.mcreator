@@ -646,24 +646,6 @@
       "registry_name": "reddiamondblock"
     },
     {
-      "name": "Aiotcraft",
-      "type": "recipe",
-      "sortid": 57,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "aiotcraft"
-    },
-    {
-      "name": "Reddiamondaiot",
-      "type": "tool",
-      "sortid": 56,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "reddiamondaiot"
-    },
-    {
       "name": "Recptheatcrystal",
       "type": "recipe",
       "sortid": 62,
@@ -698,6 +680,41 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "kechuplol"
+    },
+    {
+      "name": "HeatswordLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatsword_living_entity_is_hit_with_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Heatsword",
+      "type": "tool",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatsword"
+    },
+    {
+      "name": "Heataxe",
+      "type": "tool",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heataxe"
     }
   ],
   "variable_elements": [],
@@ -758,8 +775,8 @@
       "subtitles.drfg": "",
       "item.more_weapons_.gun": "Gun",
       "item.more_weapons_.crystalar_chestplate": "§6Crystal §bBody",
-      "item.more_weapons_.reddiamondarmor_helmet": "Red diamond Helmet",
       "item.more_weapons_.chestplate_helmet": "Netherite-Diamond Helmet",
+      "item.more_weapons_.reddiamondarmor_helmet": "Red diamond Helmet",
       "entity.more_weapons_.zombie": "pumpkin head",
       "item.more_weapons_.reddiamondshovel": "Red diamond shovel",
       "subtitles.music_disc": "",
@@ -807,10 +824,11 @@
       "itemGroup.tabmore_weapons": "More Weapons",
       "block.more_weapons_.reddiamondore": "Reddiamond",
       "item.more_weapons_.chestplate_leggings": "Netherite-Diamond Leggings",
-      "item.more_weapons_.reddiamondaiot": "Red diamond aiot",
+      "item.more_weapons_.heatsword": "Heatsword",
       "block.more_weapons_.reddiamondblock": "Reddiamondblock",
       "item.more_weapons_.heatdrop": "Heat ingot",
       "block.more_weapons_.cryst": "Cryst",
+      "item.more_weapons_.heataxe": "Heataxe",
       "advancements.aiotget.descr": "you got a Crystal Aiot",
       "item.more_weapons_.aiot": "§6Cristal §bAiot"
     }

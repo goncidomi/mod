@@ -3,28 +3,31 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "lololoololollololloolol",
+    "texture": "7c004e79fa3bf0b3cb30598fb3031cd6",
     "customModelName": "Normal",
-    "name": "Red diamond aiot",
+    "name": "Heataxe",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },
-    "toolType": "MultiTool",
-    "harvestLevel": 5,
+    "toolType": "Axe",
+    "harvestLevel": 1,
     "efficiency": 10.0,
-    "attackSpeed": 1.8,
-    "enchantability": 5,
+    "attackSpeed": 1.3,
+    "enchantability": 4,
     "damageVsEntity": 10.0,
-    "usageCount": 2000,
+    "usageCount": 100,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [
       {
-        "value": "CUSTOM:Reddiamon"
+        "value": "CUSTOM:Heatcrystal"
+      },
+      {
+        "value": "CUSTOM:Heatdrop"
       }
     ],
-    "immuneToFire": true,
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }
