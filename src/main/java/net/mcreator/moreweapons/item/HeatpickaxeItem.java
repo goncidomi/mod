@@ -28,7 +28,7 @@ public class HeatpickaxeItem extends MoreWeaponsModElements.ModElement {
 			}
 
 			public float getEfficiency() {
-				return 7f;
+				return 11f;
 			}
 
 			public float getAttackDamage() {
