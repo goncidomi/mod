@@ -14,7 +14,7 @@
       "item": "more_weapons_:crystal"
     },
     "4": {
-      "item": "more_weapons_:deleted_mod_element"
+      "item": "more_weapons_:heatdrop"
     },
     "5": {
       "item": "more_weapons_:crystal"
@@ -25,6 +25,6 @@
   },
   "result": {
     "item": "more_weapons_:heatcrystal",
-    "count": 2
+    "count": 4
   }
 }

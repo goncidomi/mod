@@ -5,7 +5,7 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 4,
+    "recipeRetstackSize": 1,
     "group": "",
     "recipeShapeless": false,
     "recipeSlots": [
@@ -13,34 +13,34 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:Crystal"
+        "value": ""
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:Crystal"
-      },
-      {
-        "value": "CUSTOM:Heatdrop"
-      },
-      {
-        "value": "CUSTOM:Crystal"
+        "value": "CUSTOM:Heatcrystal"
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:Crystal"
+        "value": "CUSTOM:Heatcrystal"
+      },
+      {
+        "value": "CUSTOM:Heatcrystal"
       },
       {
         "value": ""
+      },
+      {
+        "value": "CUSTOM:Heatcrystal"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Heatcrystal"
+      "value": "CUSTOM:Armorofheat.boots"
     },
-    "name": "recptheatcrystal",
+    "name": "heatboot",
     "namespace": "mod"
   }
 }

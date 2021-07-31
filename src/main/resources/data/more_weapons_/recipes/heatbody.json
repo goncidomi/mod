@@ -1,0 +1,39 @@
+{
+  "group": "more_weapons_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_weapons_:heatcrystal"
+    },
+    "2": {
+      "item": "more_weapons_:heatcrystal"
+    },
+    "3": {
+      "item": "more_weapons_:heatcrystal"
+    },
+    "4": {
+      "item": "more_weapons_:heatcrystal"
+    },
+    "5": {
+      "item": "more_weapons_:heatcrystal"
+    },
+    "6": {
+      "item": "more_weapons_:heatcrystal"
+    },
+    "7": {
+      "item": "more_weapons_:heatcrystal"
+    },
+    "8": {
+      "item": "more_weapons_:heatcrystal"
+    }
+  },
+  "result": {
+    "item": "more_weapons_:armorofheat_chestplate",
+    "count": 1
+  }
+}

@@ -757,6 +757,42 @@
         "eb": true,
         "ec": true
       }
+    },
+    {
+      "name": "Heathead",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heathead"
+    },
+    {
+      "name": "Heatbody",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatbody"
+    },
+    {
+      "name": "Heatleg",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatleg"
+    },
+    {
+      "name": "Heatboot",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heatboot"
     }
   ],
   "variable_elements": [],
